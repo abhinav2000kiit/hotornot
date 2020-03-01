@@ -1,0 +1,24 @@
+<nav>
+	<a href="./">Game</a>
+	<a class="active" href="./standings">Standings</a>
+</nav>
+
+{{#if standings}}
+
+	<div style="width: 100%; overflow-x: scroll; padding: 5rem;">
+		<ul>
+
+			{{#each standings}}
+			
+			<li>
+				<img src="photos/{{name}}" alt="Cat picture thumbnail" />
+				<p class="up">{{this.likes}}</p>
+				<p class="down">{{this.dislikes}}</p>
+			</li>
+
+			{{/each}}
+
+		</ul>
+	</div>
+
+{{/if}}

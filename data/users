@@ -1,0 +1,8 @@
+{"$$indexCreated":{"fieldName":"ip","unique":true,"sparse":false}}
+{"ip":"::1","votes":[],"_id":"IrN0Dz17wAyxL1si"}
+{"ip":"::1","votes":["Tpp366yBPx5eRGf8"],"_id":"IrN0Dz17wAyxL1si"}
+{"ip":"::1","votes":["Tpp366yBPx5eRGf8","AhiPPFrA9B69goBF"],"_id":"IrN0Dz17wAyxL1si"}
+{"ip":"::1","votes":["Tpp366yBPx5eRGf8","AhiPPFrA9B69goBF","0mJNbySsCntxaBj0"],"_id":"IrN0Dz17wAyxL1si"}
+{"ip":"::1","votes":["Tpp366yBPx5eRGf8","AhiPPFrA9B69goBF","0mJNbySsCntxaBj0","sBf1lukcdIqEA8Ng"],"_id":"IrN0Dz17wAyxL1si"}
+{"ip":"::1","votes":["Tpp366yBPx5eRGf8","AhiPPFrA9B69goBF","0mJNbySsCntxaBj0","sBf1lukcdIqEA8Ng","0cz2vjIDY0iwZt7z"],"_id":"IrN0Dz17wAyxL1si"}
+{"ip":"::1","votes":["Tpp366yBPx5eRGf8","AhiPPFrA9B69goBF","0mJNbySsCntxaBj0","sBf1lukcdIqEA8Ng","0cz2vjIDY0iwZt7z","JGrf9kqnAsPsLVU8"],"_id":"IrN0Dz17wAyxL1si"}

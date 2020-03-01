@@ -1,0 +1,17 @@
+{"$$indexCreated":{"fieldName":"name","unique":true,"sparse":false}}
+{"name":"01.jpg","likes":0,"dislikes":0,"_id":"Tpp366yBPx5eRGf8"}
+{"name":"02.jpg","likes":0,"dislikes":0,"_id":"LG6VUo515r70BQ1T"}
+{"name":"03.jpg","likes":0,"dislikes":0,"_id":"H337D7Se82bspcVq"}
+{"name":"04.jpg","likes":0,"dislikes":0,"_id":"0cz2vjIDY0iwZt7z"}
+{"name":"05.jpg","likes":0,"dislikes":0,"_id":"YILne9O5rLpXCmEj"}
+{"name":"06.jpg","likes":0,"dislikes":0,"_id":"sBf1lukcdIqEA8Ng"}
+{"name":"07.jpg","likes":0,"dislikes":0,"_id":"O3ZX9p19VAAlj5Pw"}
+{"name":"08.jpg","likes":0,"dislikes":0,"_id":"0mJNbySsCntxaBj0"}
+{"name":"09.jpg","likes":0,"dislikes":0,"_id":"JGrf9kqnAsPsLVU8"}
+{"name":"10.jpg","likes":0,"dislikes":0,"_id":"AhiPPFrA9B69goBF"}
+{"name":"01.jpg","likes":1,"dislikes":0,"_id":"Tpp366yBPx5eRGf8"}
+{"name":"10.jpg","likes":0,"dislikes":1,"_id":"AhiPPFrA9B69goBF"}
+{"name":"08.jpg","likes":1,"dislikes":0,"_id":"0mJNbySsCntxaBj0"}
+{"name":"06.jpg","likes":0,"dislikes":1,"_id":"sBf1lukcdIqEA8Ng"}
+{"name":"04.jpg","likes":1,"dislikes":0,"_id":"0cz2vjIDY0iwZt7z"}
+{"name":"09.jpg","likes":1,"dislikes":0,"_id":"JGrf9kqnAsPsLVU8"}
